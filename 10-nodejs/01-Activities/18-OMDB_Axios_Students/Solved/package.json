@@ -1,0 +1,19 @@
+{
+  "name": "omdb-interactive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "levelOneOmdbInteractive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "axios": "^0.18.1"
+=======
+    "axios": "^0.18.0"
+>>>>>>> a6950ee1f3cb5865e8e76fa8e3a54c6942240510
+  }
+}
